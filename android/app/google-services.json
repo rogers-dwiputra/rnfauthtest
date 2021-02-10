@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1035921690400",
+    "project_id": "rnfauthtest",
+    "storage_bucket": "rnfauthtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035921690400:android:98b7f3bf3f7040b71a5145",
+        "android_client_info": {
+          "package_name": "com.rnfauthtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035921690400-fe2tk528vu92t2hta28m2apbb6b685mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyvHinj6Q8lCnLGz_6fVEebZhsXEINWgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035921690400-fe2tk528vu92t2hta28m2apbb6b685mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
